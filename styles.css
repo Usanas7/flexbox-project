@@ -108,3 +108,8 @@
     background-color: #006d77;
     padding: 1.4rem;
   }
+  @media (max-width: 768px) {
+  .project-container {
+    flex-direction: column;
+  }
+}
